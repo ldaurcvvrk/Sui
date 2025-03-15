@@ -9,7 +9,7 @@ pluginManagement {
 dependencyResolutionManagement {
     
         mavenCentral()
-        mavenLocal()
+        mavenLocal()gggt
     }
     versionCatalogs {
         libs {
